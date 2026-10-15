@@ -1,0 +1,7 @@
+C01 Computer System Set-up
+C02 Computer System Maintenance
+C03 Computer System Repair
+C04 Server Installation
+C05 Sever Maintenance
+C06 Computer Network Connectivity Set-up
+C07 Mobile Device Configuration
